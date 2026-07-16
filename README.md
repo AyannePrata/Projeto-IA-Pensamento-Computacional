@@ -27,24 +27,35 @@ As questões foram avaliadas por três especialistas licenciados em Matemática 
 
 - **artigo/** – versão final do artigo científico.
 - **dados/** – dados brutos e dados organizados utilizados na pesquisa.
-- **analise/** – notebook contendo os códigos responsáveis pela análise estatística.
-- **prompts/** – prompt utilizado para geração das questões por IA.
-- **resultados/** – gráficos e tabelas produzidos durante a análise.
+- **analise/** – notebook contendo os códigos responsáveis pela análise estatística dos dados.
+- **prompts/** – prompts utilizados para geração das questões pelo ChatGPT e Gemini.
+- **resultados/** – tabelas e gráficos produzidos durante a análise.
+
+---
+
+## Bibliotecas utilizadas
+
+O notebook foi desenvolvido em Python utilizando as seguintes bibliotecas:
+
+- pandas
+- numpy
+- matplotlib
 
 ---
 
 ## Como reproduzir os resultados
 
-1. Faça o download deste repositório;
-2. Instale as dependências listadas em `requirements.txt`;
-3. Abra o notebook localizado na pasta `analise`;
-4. Execute todas as células;
+1. Faça o download deste repositório.
+2. Abra o notebook localizado na pasta **analise** no Google Colab ou em um ambiente compatível com Jupyter Notebook.
+3. Certifique-se de que o arquivo `avaliacoes_especialistas.csv` esteja disponível na pasta **dados**.
+4. Execute todas as células do notebook.
 5. Os gráficos e tabelas serão gerados automaticamente.
 
 ---
 
-## Autores
+## Autora
 
-Ayanne Prata
+**Ayanne Prata**
 
-Universidade Federal de Campina Grande – UFCG
+Programa de Pós-Graduação em Ciência da Computação  
+Universidade Federal de Campina Grande (UFCG)
