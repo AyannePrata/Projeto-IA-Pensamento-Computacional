@@ -22,8 +22,9 @@ Enunciado da questão;
 Cinco alternativas (A, B, C, D e E);
 Apenas uma alternativa correta;
 
-
-
-
 Não apresente explicações, comentários, justificativas, resolução da questão nem informe quais competências do Pensamento Computacional foram utilizadas.    crie uma questõa diferente da primeira já crie em forma deimagem também 
+
+## Observação
+
+O mesmo prompt foi utilizado tanto no ChatGPT quanto no Gemini, alterando-se apenas a plataforma utilizada para geração das questões.
 
