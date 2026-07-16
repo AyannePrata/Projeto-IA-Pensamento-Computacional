@@ -1,0 +1,301 @@
+Avaliador,Questao,Origem,Grupo,Criterio,Nota
+1,1,Tese,Humana,Pensamento Computacional,4
+2,1,Tese,Humana,Pensamento Computacional,4
+3,1,Tese,Humana,Pensamento Computacional,4
+1,1,Tese,Humana,Clareza,3
+2,1,Tese,Humana,Clareza,4
+3,1,Tese,Humana,Clareza,4
+1,1,Tese,Humana,Dificuldade,4
+2,1,Tese,Humana,Dificuldade,5
+3,1,Tese,Humana,Dificuldade,4
+1,1,Tese,Humana,Qualidade Pedagógica,3
+2,1,Tese,Humana,Qualidade Pedagógica,3
+3,1,Tese,Humana,Qualidade Pedagógica,4
+1,1,Tese,Humana,Interdisciplinaridade,5
+2,1,Tese,Humana,Interdisciplinaridade,2
+3,1,Tese,Humana,Interdisciplinaridade,4
+1,2,Tese,Humana,Pensamento Computacional,4
+2,2,Tese,Humana,Pensamento Computacional,5
+3,2,Tese,Humana,Pensamento Computacional,4
+1,2,Tese,Humana,Clareza,4
+2,2,Tese,Humana,Clareza,5
+3,2,Tese,Humana,Clareza,4
+1,2,Tese,Humana,Dificuldade,4
+2,2,Tese,Humana,Dificuldade,4
+3,2,Tese,Humana,Dificuldade,4
+1,2,Tese,Humana,Qualidade Pedagógica,4
+2,2,Tese,Humana,Qualidade Pedagógica,5
+3,2,Tese,Humana,Qualidade Pedagógica,4
+1,2,Tese,Humana,Interdisciplinaridade,4
+2,2,Tese,Humana,Interdisciplinaridade,4
+3,2,Tese,Humana,Interdisciplinaridade,4
+1,3,Tese,Humana,Pensamento Computacional,3
+2,3,Tese,Humana,Pensamento Computacional,5
+3,3,Tese,Humana,Pensamento Computacional,5
+1,3,Tese,Humana,Clareza,4
+2,3,Tese,Humana,Clareza,5
+3,3,Tese,Humana,Clareza,5
+1,3,Tese,Humana,Dificuldade,5
+2,3,Tese,Humana,Dificuldade,5
+3,3,Tese,Humana,Dificuldade,5
+1,3,Tese,Humana,Qualidade Pedagógica,4
+2,3,Tese,Humana,Qualidade Pedagógica,5
+3,3,Tese,Humana,Qualidade Pedagógica,5
+1,3,Tese,Humana,Interdisciplinaridade,5
+2,3,Tese,Humana,Interdisciplinaridade,5
+3,3,Tese,Humana,Interdisciplinaridade,5
+1,4,ChatGPT,IA,Pensamento Computacional,4
+2,4,ChatGPT,IA,Pensamento Computacional,5
+3,4,ChatGPT,IA,Pensamento Computacional,5
+1,4,ChatGPT,IA,Clareza,4
+2,4,ChatGPT,IA,Clareza,5
+3,4,ChatGPT,IA,Clareza,5
+1,4,ChatGPT,IA,Dificuldade,4
+2,4,ChatGPT,IA,Dificuldade,5
+3,4,ChatGPT,IA,Dificuldade,5
+1,4,ChatGPT,IA,Qualidade Pedagógica,4
+2,4,ChatGPT,IA,Qualidade Pedagógica,5
+3,4,ChatGPT,IA,Qualidade Pedagógica,5
+1,4,ChatGPT,IA,Interdisciplinaridade,4
+2,4,ChatGPT,IA,Interdisciplinaridade,4
+3,4,ChatGPT,IA,Interdisciplinaridade,5
+1,5,Gemini,IA,Pensamento Computacional,4
+2,5,Gemini,IA,Pensamento Computacional,5
+3,5,Gemini,IA,Pensamento Computacional,4
+1,5,Gemini,IA,Clareza,2
+2,5,Gemini,IA,Clareza,5
+3,5,Gemini,IA,Clareza,4
+1,5,Gemini,IA,Dificuldade,4
+2,5,Gemini,IA,Dificuldade,4
+3,5,Gemini,IA,Dificuldade,4
+1,5,Gemini,IA,Qualidade Pedagógica,3
+2,5,Gemini,IA,Qualidade Pedagógica,4
+3,5,Gemini,IA,Qualidade Pedagógica,4
+1,5,Gemini,IA,Interdisciplinaridade,5
+2,5,Gemini,IA,Interdisciplinaridade,5
+3,5,Gemini,IA,Interdisciplinaridade,4
+1,6,Tese,Humana,Pensamento Computacional,2
+2,6,Tese,Humana,Pensamento Computacional,4
+3,6,Tese,Humana,Pensamento Computacional,5
+1,6,Tese,Humana,Clareza,5
+2,6,Tese,Humana,Clareza,4
+3,6,Tese,Humana,Clareza,5
+1,6,Tese,Humana,Dificuldade,5
+2,6,Tese,Humana,Dificuldade,4
+3,6,Tese,Humana,Dificuldade,5
+1,6,Tese,Humana,Qualidade Pedagógica,5
+2,6,Tese,Humana,Qualidade Pedagógica,4
+3,6,Tese,Humana,Qualidade Pedagógica,5
+1,6,Tese,Humana,Interdisciplinaridade,1
+2,6,Tese,Humana,Interdisciplinaridade,2
+3,6,Tese,Humana,Interdisciplinaridade,5
+1,7,Gemini,IA,Pensamento Computacional,5
+2,7,Gemini,IA,Pensamento Computacional,5
+3,7,Gemini,IA,Pensamento Computacional,5
+1,7,Gemini,IA,Clareza,2
+2,7,Gemini,IA,Clareza,4
+3,7,Gemini,IA,Clareza,5
+1,7,Gemini,IA,Dificuldade,3
+2,7,Gemini,IA,Dificuldade,5
+3,7,Gemini,IA,Dificuldade,5
+1,7,Gemini,IA,Qualidade Pedagógica,3
+2,7,Gemini,IA,Qualidade Pedagógica,4
+3,7,Gemini,IA,Qualidade Pedagógica,5
+1,7,Gemini,IA,Interdisciplinaridade,5
+2,7,Gemini,IA,Interdisciplinaridade,5
+3,7,Gemini,IA,Interdisciplinaridade,5
+1,8,OBI,Humana,Pensamento Computacional,3
+2,8,OBI,Humana,Pensamento Computacional,5
+3,8,OBI,Humana,Pensamento Computacional,4
+1,8,OBI,Humana,Clareza,5
+2,8,OBI,Humana,Clareza,5
+3,8,OBI,Humana,Clareza,4
+1,8,OBI,Humana,Dificuldade,5
+2,8,OBI,Humana,Dificuldade,5
+3,8,OBI,Humana,Dificuldade,4
+1,8,OBI,Humana,Qualidade Pedagógica,4
+2,8,OBI,Humana,Qualidade Pedagógica,5
+3,8,OBI,Humana,Qualidade Pedagógica,4
+1,8,OBI,Humana,Interdisciplinaridade,2
+2,8,OBI,Humana,Interdisciplinaridade,3
+3,8,OBI,Humana,Interdisciplinaridade,4
+1,9,ChatGPT,IA,Pensamento Computacional,4
+2,9,ChatGPT,IA,Pensamento Computacional,5
+3,9,ChatGPT,IA,Pensamento Computacional,4
+1,9,ChatGPT,IA,Clareza,4
+2,9,ChatGPT,IA,Clareza,4
+3,9,ChatGPT,IA,Clareza,4
+1,9,ChatGPT,IA,Dificuldade,4
+2,9,ChatGPT,IA,Dificuldade,5
+3,9,ChatGPT,IA,Dificuldade,4
+1,9,ChatGPT,IA,Qualidade Pedagógica,4
+2,9,ChatGPT,IA,Qualidade Pedagógica,5
+3,9,ChatGPT,IA,Qualidade Pedagógica,4
+1,9,ChatGPT,IA,Interdisciplinaridade,4
+2,9,ChatGPT,IA,Interdisciplinaridade,4
+3,9,ChatGPT,IA,Interdisciplinaridade,4
+1,10,OBI,Humana,Pensamento Computacional,2
+2,10,OBI,Humana,Pensamento Computacional,5
+3,10,OBI,Humana,Pensamento Computacional,5
+1,10,OBI,Humana,Clareza,4
+2,10,OBI,Humana,Clareza,5
+3,10,OBI,Humana,Clareza,5
+1,10,OBI,Humana,Dificuldade,4
+2,10,OBI,Humana,Dificuldade,5
+3,10,OBI,Humana,Dificuldade,5
+1,10,OBI,Humana,Qualidade Pedagógica,4
+2,10,OBI,Humana,Qualidade Pedagógica,4
+3,10,OBI,Humana,Qualidade Pedagógica,5
+1,10,OBI,Humana,Interdisciplinaridade,2
+2,10,OBI,Humana,Interdisciplinaridade,5
+3,10,OBI,Humana,Interdisciplinaridade,5
+1,11,Gemini,IA,Pensamento Computacional,5
+2,11,Gemini,IA,Pensamento Computacional,5
+3,11,Gemini,IA,Pensamento Computacional,5
+1,11,Gemini,IA,Clareza,2
+2,11,Gemini,IA,Clareza,5
+3,11,Gemini,IA,Clareza,5
+1,11,Gemini,IA,Dificuldade,3
+2,11,Gemini,IA,Dificuldade,4
+3,11,Gemini,IA,Dificuldade,5
+1,11,Gemini,IA,Qualidade Pedagógica,3
+2,11,Gemini,IA,Qualidade Pedagógica,4
+3,11,Gemini,IA,Qualidade Pedagógica,5
+1,11,Gemini,IA,Interdisciplinaridade,5
+2,11,Gemini,IA,Interdisciplinaridade,5
+3,11,Gemini,IA,Interdisciplinaridade,5
+1,12,ChatGPT,IA,Pensamento Computacional,3
+2,12,ChatGPT,IA,Pensamento Computacional,5
+3,12,ChatGPT,IA,Pensamento Computacional,5
+1,12,ChatGPT,IA,Clareza,5
+2,12,ChatGPT,IA,Clareza,5
+3,12,ChatGPT,IA,Clareza,5
+1,12,ChatGPT,IA,Dificuldade,4
+2,12,ChatGPT,IA,Dificuldade,4
+3,12,ChatGPT,IA,Dificuldade,5
+1,12,ChatGPT,IA,Qualidade Pedagógica,4
+2,12,ChatGPT,IA,Qualidade Pedagógica,5
+3,12,ChatGPT,IA,Qualidade Pedagógica,5
+1,12,ChatGPT,IA,Interdisciplinaridade,4
+2,12,ChatGPT,IA,Interdisciplinaridade,4
+3,12,ChatGPT,IA,Interdisciplinaridade,5
+1,13,OBI,Humana,Pensamento Computacional,3
+2,13,OBI,Humana,Pensamento Computacional,4
+3,13,OBI,Humana,Pensamento Computacional,4
+1,13,OBI,Humana,Clareza,4
+2,13,OBI,Humana,Clareza,4
+3,13,OBI,Humana,Clareza,4
+1,13,OBI,Humana,Dificuldade,4
+2,13,OBI,Humana,Dificuldade,4
+3,13,OBI,Humana,Dificuldade,4
+1,13,OBI,Humana,Qualidade Pedagógica,4
+2,13,OBI,Humana,Qualidade Pedagógica,4
+3,13,OBI,Humana,Qualidade Pedagógica,4
+1,13,OBI,Humana,Interdisciplinaridade,2
+2,13,OBI,Humana,Interdisciplinaridade,4
+3,13,OBI,Humana,Interdisciplinaridade,4
+1,14,OBI,Humana,Pensamento Computacional,4
+2,14,OBI,Humana,Pensamento Computacional,5
+3,14,OBI,Humana,Pensamento Computacional,4
+1,14,OBI,Humana,Clareza,4
+2,14,OBI,Humana,Clareza,5
+3,14,OBI,Humana,Clareza,4
+1,14,OBI,Humana,Dificuldade,4
+2,14,OBI,Humana,Dificuldade,5
+3,14,OBI,Humana,Dificuldade,4
+1,14,OBI,Humana,Qualidade Pedagógica,4
+2,14,OBI,Humana,Qualidade Pedagógica,5
+3,14,OBI,Humana,Qualidade Pedagógica,4
+1,14,OBI,Humana,Interdisciplinaridade,3
+2,14,OBI,Humana,Interdisciplinaridade,5
+3,14,OBI,Humana,Interdisciplinaridade,4
+1,15,Gemini,IA,Pensamento Computacional,5
+2,15,Gemini,IA,Pensamento Computacional,4
+3,15,Gemini,IA,Pensamento Computacional,5
+1,15,Gemini,IA,Clareza,4
+2,15,Gemini,IA,Clareza,4
+3,15,Gemini,IA,Clareza,5
+1,15,Gemini,IA,Dificuldade,4
+2,15,Gemini,IA,Dificuldade,4
+3,15,Gemini,IA,Dificuldade,5
+1,15,Gemini,IA,Qualidade Pedagógica,4
+2,15,Gemini,IA,Qualidade Pedagógica,4
+3,15,Gemini,IA,Qualidade Pedagógica,5
+1,15,Gemini,IA,Interdisciplinaridade,4
+2,15,Gemini,IA,Interdisciplinaridade,5
+3,15,Gemini,IA,Interdisciplinaridade,5
+1,16,ChatGPT,IA,Pensamento Computacional,3
+2,16,ChatGPT,IA,Pensamento Computacional,5
+3,16,ChatGPT,IA,Pensamento Computacional,4
+1,16,ChatGPT,IA,Clareza,4
+2,16,ChatGPT,IA,Clareza,5
+3,16,ChatGPT,IA,Clareza,4
+1,16,ChatGPT,IA,Dificuldade,4
+2,16,ChatGPT,IA,Dificuldade,4
+3,16,ChatGPT,IA,Dificuldade,4
+1,16,ChatGPT,IA,Qualidade Pedagógica,4
+2,16,ChatGPT,IA,Qualidade Pedagógica,5
+3,16,ChatGPT,IA,Qualidade Pedagógica,4
+1,16,ChatGPT,IA,Interdisciplinaridade,4
+2,16,ChatGPT,IA,Interdisciplinaridade,5
+3,16,ChatGPT,IA,Interdisciplinaridade,4
+1,17,OBI,Humana,Pensamento Computacional,5
+2,17,OBI,Humana,Pensamento Computacional,5
+3,17,OBI,Humana,Pensamento Computacional,5
+1,17,OBI,Humana,Clareza,5
+2,17,OBI,Humana,Clareza,5
+3,17,OBI,Humana,Clareza,5
+1,17,OBI,Humana,Dificuldade,5
+2,17,OBI,Humana,Dificuldade,4
+3,17,OBI,Humana,Dificuldade,5
+1,17,OBI,Humana,Qualidade Pedagógica,5
+2,17,OBI,Humana,Qualidade Pedagógica,5
+3,17,OBI,Humana,Qualidade Pedagógica,5
+1,17,OBI,Humana,Interdisciplinaridade,3
+2,17,OBI,Humana,Interdisciplinaridade,4
+3,17,OBI,Humana,Interdisciplinaridade,5
+1,18,Gemini,IA,Pensamento Computacional,4
+2,18,Gemini,IA,Pensamento Computacional,5
+3,18,Gemini,IA,Pensamento Computacional,5
+1,18,Gemini,IA,Clareza,4
+2,18,Gemini,IA,Clareza,5
+3,18,Gemini,IA,Clareza,5
+1,18,Gemini,IA,Dificuldade,4
+2,18,Gemini,IA,Dificuldade,4
+3,18,Gemini,IA,Dificuldade,5
+1,18,Gemini,IA,Qualidade Pedagógica,4
+2,18,Gemini,IA,Qualidade Pedagógica,4
+3,18,Gemini,IA,Qualidade Pedagógica,5
+1,18,Gemini,IA,Interdisciplinaridade,4
+2,18,Gemini,IA,Interdisciplinaridade,5
+3,18,Gemini,IA,Interdisciplinaridade,5
+1,19,OBI,Humana,Pensamento Computacional,5
+2,19,OBI,Humana,Pensamento Computacional,5
+3,19,OBI,Humana,Pensamento Computacional,5
+1,19,OBI,Humana,Clareza,5
+2,19,OBI,Humana,Clareza,5
+3,19,OBI,Humana,Clareza,4
+1,19,OBI,Humana,Dificuldade,5
+2,19,OBI,Humana,Dificuldade,4
+3,19,OBI,Humana,Dificuldade,5
+1,19,OBI,Humana,Qualidade Pedagógica,5
+2,19,OBI,Humana,Qualidade Pedagógica,5
+3,19,OBI,Humana,Qualidade Pedagógica,5
+1,19,OBI,Humana,Interdisciplinaridade,4
+2,19,OBI,Humana,Interdisciplinaridade,5
+3,19,OBI,Humana,Interdisciplinaridade,5
+1,20,ChatGPT,IA,Pensamento Computacional,5
+2,20,ChatGPT,IA,Pensamento Computacional,5
+3,20,ChatGPT,IA,Pensamento Computacional,5
+1,20,ChatGPT,IA,Clareza,4
+2,20,ChatGPT,IA,Clareza,5
+3,20,ChatGPT,IA,Clareza,5
+1,20,ChatGPT,IA,Dificuldade,5
+2,20,ChatGPT,IA,Dificuldade,5
+3,20,ChatGPT,IA,Dificuldade,5
+1,20,ChatGPT,IA,Qualidade Pedagógica,5
+2,20,ChatGPT,IA,Qualidade Pedagógica,5
+3,20,ChatGPT,IA,Qualidade Pedagógica,5
+1,20,ChatGPT,IA,Interdisciplinaridade,5
+2,20,ChatGPT,IA,Interdisciplinaridade,5
+3,20,ChatGPT,IA,Interdisciplinaridade,5
